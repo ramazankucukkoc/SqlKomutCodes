@@ -1,0 +1,1 @@
+exec RegisterUserAndShowList @Name='Mehemet',@LastName='Demir'
